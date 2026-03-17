@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Public_Sans } from "next/font/google";
 import { ClerkProvider } from "@clerk/nextjs";
 import { QueryProvider } from "@/components/providers/query-providers";
+import Navbar from "@/components/layout/Navbar";
 import "./globals.css";
 
 const publicSans = Public_Sans({
@@ -26,6 +27,7 @@ export default function RootLayout({
         <body
           className={`${publicSans.variable} font-sans antialiased bg-background text-foreground`}
         >
+          <Navbar />
           <QueryProvider>{children}</QueryProvider>
         </body>
       </html>
