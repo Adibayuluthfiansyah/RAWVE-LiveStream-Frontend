@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&pause=1000&color=FF2D4E&center=true&vCenter=true&width=600&height=120&lines=RAWVE+WEB" alt="RAWVE Web" />
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&pause=1000&color=FF2D4E&center=true&vCenter=true&width=600&height=120&lines=RAWVE" alt="RAWVE" />
 
 ### **Lower Cut. Full Control. Open Source.**
 *The official web client for the RAWVE Live Streaming Platform.*
