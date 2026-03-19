@@ -17,14 +17,14 @@
 
 ## 📺 3. Public Pages (Penonton)
 - [x] Buat Halaman **Browse / Home** (`app/browse/page.tsx`).
-- [ ] Buat Halaman **Watch Stream** (`app/[username]/page.tsx`).
-  - [ ] Layout Video Player utama.
-  - [ ] Informasi Stream (Judul, Kategori, Jumlah Viewer).
-  - [ ] Profil singkat Streamer & Tombol Follow/Subscribe.
-  - [ ] Layout Live Chat Box di sisi kanan layar.
-- [ ] Buat Halaman **Creator Public Profile** (`app/[username]/profile/page.tsx`).
-  - [ ] Header/Cover Image & Avatar Streamer.
-  - [ ] Tab Video VODs, Clips, dan About/Bio.
+- [x] Buat Halaman **Watch Stream** (`app/[username]/page.tsx`).
+  - [x] Layout Video Player utama.
+  - [x] Informasi Stream (Judul, Kategori, Jumlah Viewer).
+  - [x] Profil singkat Streamer & Tombol Follow/Subscribe.
+  - [x] Layout Live Chat Box di sisi kanan layar.
+- [x] Buat Halaman **Creator Public Profile** (`app/[username]/profile/page.tsx`).
+  - [x] Header/Cover Image & Avatar Streamer.
+  - [x] Tab Video VODs, Clips, dan About/Bio.
 
 ## 🔐 4. Authentication & Onboarding
 - [x] Buat UI Halaman **Login** (`app/(auth)/login/page.tsx`).

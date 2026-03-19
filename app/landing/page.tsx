@@ -7,11 +7,13 @@ import Footer from "@/components/layout/Footer";
 export default function LandingPage() {
   return (
     <div className="min-h-screen bg-[#0B0B0F]">
-      <Hero />
-      <Statistics />
-      <RecommendedLive />
-      <WhyCreatorsChoose />
-      <Footer />
+      <main id="main-content">
+        <Hero />
+        <Statistics />
+        <RecommendedLive />
+        <WhyCreatorsChoose />
+        <Footer />
+      </main>
     </div>
   );
 }
